@@ -1,0 +1,11 @@
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\bin\Debug\netcoreapp1.1\StartupDemo.deps.json
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\bin\Debug\netcoreapp1.1\StartupDemo.runtimeconfig.json
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\bin\Debug\netcoreapp1.1\StartupDemo.runtimeconfig.dev.json
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\bin\Debug\netcoreapp1.1\StartupDemo.dll
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\bin\Debug\netcoreapp1.1\StartupDemo.pdb
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp1.1\StartupDemo.csproj.CoreCompileInputs.cache
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp1.1\StartupDemo.AssemblyInfoInputs.cache
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp1.1\StartupDemo.AssemblyInfo.cs
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp1.1\StartupDemo.dll
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp1.1\StartupDemo.pdb

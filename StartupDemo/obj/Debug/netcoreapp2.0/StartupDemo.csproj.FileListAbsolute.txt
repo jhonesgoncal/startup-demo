@@ -1,0 +1,4 @@
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp2.0\StartupDemo.csprojResolveAssemblyReference.cache
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp2.0\StartupDemo.csproj.CoreCompileInputs.cache
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp2.0\StartupDemo.AssemblyInfoInputs.cache
+D:\Codigos\eduardo-pires\StartupDemo\StartupDemo\obj\Debug\netcoreapp2.0\StartupDemo.AssemblyInfo.cs
